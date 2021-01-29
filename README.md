@@ -2,7 +2,7 @@
  This is my DnD app for manging and running games
  
  Planned Features
-- [ ] Initiative Tracker
+- [x] Initiative Tracker
 - [ ] Secret Player messages 
       - [ ] Bluetooth
       - [ ] SignalR
