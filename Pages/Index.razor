@@ -1,0 +1,18 @@
+﻿@page "/"
+@inject NavigationManager UriHelper
+<h1>Game Manager</h1>
+
+<button class="btn btn-primary"@onclick='() => Navigate("gamemanager")'>Game Master</button>
+
+<button class="btn btn-primary" @onclick='() => Navigate("player")'>Player</button>
+
+
+@code
+{
+    string pageName;
+
+    void Navigate(string pageName)
+    {
+        UriHelper.NavigateTo(pageName);
+    }
+}
