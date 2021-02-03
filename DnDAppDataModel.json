@@ -1,0 +1,232 @@
+"CharacterEsstentials":{
+    "Name":"",
+    "Background":"",
+    "Alignment":"",
+    "PlayerName":"",
+    "XP":,
+    "Race":""
+}
+
+"ClassInfo":{
+  "Class":"",
+  "Features": [
+    "Name":"Description"
+  ],
+  "Traits": [
+    "Name":"Description"
+  ],
+  "HitDice": {
+    "Total":,
+    "Type"
+  }
+}
+
+"CombatInfo":{
+  "Attacks":
+  [
+    {
+      "Name":"",
+      "Hit":{
+        "Mods":
+      },
+      "Damage":{
+        "Total":,
+        "Type":"",
+        ""
+      }
+    }
+  ],
+  "Spells":[
+    "Name":""
+  ],
+  "Armor Class":,
+  "Speed":,
+  "Initiative":,
+  "HP":{
+    "Total":,
+    "Current":,
+    "Temporary":
+  },
+  "Death Saves":{
+    "Failures":,
+    "Successes":
+  },
+  "Equipment":{
+    "Weapons":[
+      {
+        "Name":""
+      }
+    ],
+    "Armor":{
+      "Name":"",
+      "Type":""
+    }
+  }
+}
+
+
+"Capabilities":{
+  "Proficiencies":[
+      "name of thing proficient in"
+    ],
+  "Bonus":2,
+  "Abilities":[
+    {
+      "Strength":,
+      "Mod":1
+    },
+    {
+      "Dexterity":,
+      "Mod"
+    },
+    {
+      "Constitution":,
+      "Mod":
+    },
+    {
+      "Inteligence":,
+      "Mod":
+    },
+    {
+      "Wisdom":,
+      "Mod":
+    },
+    {
+      "Charisma":,
+      "Mod":
+    }
+  ],
+  "Skills":[
+    {
+      "Acrobatics":,
+      "Animal Handling":,
+      "Arcana":,
+      "Athletics":,
+      "Deception":,
+      "History":,
+      "Insight":,
+      "Intimidate":,
+      "Investigation":,
+      "Medicine":,
+      "Nature":,
+      "Perception":,
+      "Performance":,
+      "Persuasion":,
+      "Religion":,
+      "Sleight of Hand":,
+      "Stealth":,
+      "Survival":
+    }
+  ],
+  "Passive Perception":0
+}
+
+"Spellcasting":{
+    "Cantrips":[
+      ""
+    ],
+    "Level1":{
+      "Spells":[
+        {
+          "Name":"",
+          "Prepared":true
+        }
+      ],
+      "TotalSlots":0,
+      "ExpendedSlots":0
+    },
+    "Level2":{
+      "Spells":[
+        {
+          "Name":"",
+          "Prepared":true
+        }
+      ],
+      "TotalSlots":0,
+      "ExpendedSlots":0
+    },
+    "Level3":{
+      "Spells":[
+        {
+          "Name":"",
+          "Prepared":true
+        }
+      ],
+      "TotalSlots":0,
+      "ExpendedSlots":0
+    },
+    "Level4":{
+      "Spells":[
+        {
+          "Name":"",
+          "Prepared":true
+        }
+      ],
+      "TotalSlots":0,
+      "ExpendedSlots":0
+    },
+    "Level5":{
+      "Spells":[
+        {
+          "Name":"",
+          "Prepared":true
+        }
+      ],
+      "TotalSlots":0,
+      "ExpendedSlots":0
+    },
+    "Level6":{
+      "Spells":[
+        {
+          "Name":"",
+          "Prepared":true
+        }
+      ],
+      "TotalSlots":0,
+      "ExpendedSlots":0
+    },
+    "Level7":{
+      "Spells":[
+        {
+          "Name":"",
+          "Prepared":true
+        }
+      ],
+      "TotalSlots":0,
+      "ExpendedSlots":0
+    },
+    "Level8":{
+      "Spells":[
+        {
+          "Name":"",
+          "Prepared":true
+        }
+      ],
+      "TotalSlots":0,
+      "ExpendedSlots":0
+    },
+    "Level9":{
+      "Spells":[
+        {
+          "Name":"",
+          "Prepared":true
+        }
+      ],
+      "TotalSlots":0,
+      "ExpendedSlots":0
+    }
+}
+
+"Inventory":{
+  "Copper":,
+  "Silver":,
+  "Electrum":,
+  "Gold":,
+  "Platinum":,
+  "Items":[
+    {
+      "Name":"",
+      "Description":""
+    }
+  ]
+}

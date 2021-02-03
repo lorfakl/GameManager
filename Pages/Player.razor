@@ -1,7 +1,17 @@
 ﻿@page "/player"
 
-<h3>Player</h3>
+<h2>Player Menu</h2>
 
-@code {
+<div style="width:200px;">
+    <div style="float: left; width: 130px">
+        <button class="btn btn-primary" @onclick='() => Navigate("player")'>Create New Player</button>
+    </div>
+    <div style="float: right; width: 225px">
+        <button class="btn btn-primary" @onclick='() => Navigate("player")'></button>
+    </div>
+</div>
 
+@code 
+{
+    
 }
